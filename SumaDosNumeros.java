@@ -1,8 +1,3 @@
-package com.mycompany.sumadosnumeros;
-/**
- *
- * @author alison
- */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -35,6 +30,9 @@ public class SumaDosNumeros {
                                                                                                            // numerica
                                                                                                            // con la
                                                                                                            // edad
+
+                System.out.println("SE HA MODIFICADO EL CÓDIGO ---> ACTIVIDAD 12 DPL ALISON");
+
         }
 
 }
